@@ -21,7 +21,7 @@ https://github.com/shelltdf/ai_rules_template
 
 ## 第二层（基础工具）
 
-### UI 设计器 MCP
+### UI 设计器 MCP（探索期）
 
 https://github.com/shelltdf/uisvg_mcp
 
@@ -33,7 +33,9 @@ https://github.com/shelltdf/uisvg_mcp
 
 为了满足对脑图的沟通。
 
-### 3D 模型 MCP
+### 3D 模型 MCP（探索期）
+
+https://github.com/shelltdf/viewer3d_mcp
 
 为了满足对3D场景的沟通。
 
