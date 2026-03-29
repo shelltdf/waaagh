@@ -13,7 +13,7 @@
 
 ## 第一层（最原始依赖关系）
 
-### 基于 AI 的软件工程项目
+### 基于 AI 的软件工程项目（持续迭代）
 
 https://github.com/shelltdf/ai_rules_template
 
@@ -29,7 +29,9 @@ https://github.com/shelltdf/uisvg_mcp
 
 ## 第三层（具体应用）
 
-### 脑图 MCP
+### 脑图 MCP（探索期）
+
+https://github.com/shelltdf/mindmap_mcp
 
 为了满足对脑图的沟通。
 
