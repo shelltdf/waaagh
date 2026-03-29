@@ -1,4 +1,4 @@
-<img title="" src="file:///D:/OneDrive/桌面/waaagh/images/image_aa690f12.png" alt="image_aa690f12.png" width="256" data-align="center">
+<img title="" src="images/image_aa690f12.png" alt="image_aa690f12.png" width="256" data-align="center">
 
 # WAAAGH！
 
