@@ -1,5 +1,5 @@
 <div align="center">
-<img title="" src="images/image_aa690f12.png" alt="image_aa690f12.png" width="256" style="display: inline-block; margin-right: 20px;">
+<img title="" src="images/logo.jpg" alt="images/logo.jpg" width="256" style="display: inline-block; margin-right: 20px;">
 <a href="https://github.com/shelltdf/waaagh">
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=256x256&data=https://github.com/shelltdf/waaagh" alt="Project QR Code" width="256" style="display: inline-block;">
 </a>
