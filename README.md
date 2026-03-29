@@ -41,7 +41,9 @@ https://github.com/shelltdf/viewer3d_mcp
 
 为了满足对3D场景的沟通。
 
-### 2D 精灵 MCP
+### 2D 精灵 MCP（探索期）
+
+https://github.com/shelltdf/sprite2d_mcp
 
 为了满足对 2D 精灵图的沟通。
 
@@ -52,3 +54,15 @@ https://github.com/shelltdf/viewer3d_mcp
 ### 2D Tilemap MCP
 
 为了满足对 2D Tilemap 的沟通。
+
+### 编曲 MCP
+
+为了满足对编曲的沟通。
+
+### 音频处理 MCP
+
+为了满足对音频处理的沟通。
+
+### 视频处理 MCP
+
+为了满足对视频处理的沟通。
