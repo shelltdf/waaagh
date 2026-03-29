@@ -41,6 +41,12 @@ https://github.com/shelltdf/viewer3d_mcp
 
 为了满足对3D场景的沟通。
 
+### Texture Atlas（探索期）
+
+针对贴图拼版的需求。
+
+https://github.com/shelltdf/texture_atlas_mcp
+
 ### 2D 精灵 MCP（探索期）
 
 https://github.com/shelltdf/sprite2d_mcp
