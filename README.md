@@ -1,4 +1,9 @@
-<img title="" src="images/image_aa690f12.png" alt="image_aa690f12.png" width="256" data-align="center">
+<div align="center">
+<img title="" src="images/image_aa690f12.png" alt="image_aa690f12.png" width="256" style="display: inline-block; margin-right: 20px;">
+<a href="https://github.com/shelltdf/waaagh">
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=256x256&data=https://github.com/shelltdf/waaagh" alt="Project QR Code" width="256" style="display: inline-block;">
+</a>
+</div>
 
 # WAAAGH！
 
@@ -34,7 +39,7 @@
 
 ### 2D 骨骼动画 MCP
 
-为了满足对 2D 骨骼动画的沟通。
+为了满足对 2D 骨骼动���的沟通。
 
 ### 2D Tilemap MCP
 
