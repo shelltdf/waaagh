@@ -15,6 +15,8 @@
 
 ### 基于 AI 的软件工程项目
 
+https://github.com/shelltdf/ai_rules_template
+
 这是一个 cursor 的 rules 文件合集。主要目的是为了完成 AI 自动的软件工程管理模式。是后续所有项目都需要依赖的。已经被包含在后续项目中了，这里只是模板工程。
 
 ## 第二层（基础工具）
