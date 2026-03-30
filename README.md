@@ -53,13 +53,23 @@ https://github.com/shelltdf/sprite2d_mcp
 
 为了满足对 2D 精灵图的沟通。
 
-### 2D 骨骼动画 MCP
+### 2D 骨骼动画 MCP（探索期）
+
+https://github.com/shelltdf/sprite2d_mcp
 
 为了满足对 2D 骨骼动画的沟通。
 
-### 2D Tilemap MCP
+### 2D Tilemap MCP（探索期）
+
+https://github.com/shelltdf/tilemap_mcp
 
 为了满足对 2D Tilemap 的沟通。
+
+### Flash MCP（探索期）
+
+https://github.com/shelltdf/flash_mcp
+
+Flash 的精神续作。
 
 ### 编曲 MCP
 
