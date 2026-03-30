@@ -61,7 +61,7 @@ https://github.com/shelltdf/sprite2d_mcp
 
 ### 2D Tilemap MCP（探索期）
 
-https://github.com/shelltdf/tilemap_mcp
+https://github.com/shelltdf/tiledmap2d_mcp
 
 为了满足对 2D Tilemap 的沟通。
 
