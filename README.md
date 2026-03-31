@@ -79,6 +79,8 @@ Flash 的精神续作。
 
 为了满足对音频处理的沟通。
 
-### 视频处理 MCP
+### 视频处理 MCP（探索受阻）
+
+https://github.com/shelltdf/media_mcp
 
 为了满足对视频处理的沟通。
