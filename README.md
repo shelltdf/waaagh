@@ -21,11 +21,15 @@ https://github.com/shelltdf/ai_rules_template
 
 ## 第二层（基础工具）
 
-### 脑图 MCP（探索期）
+### MindMap 脑图 MCP（测试版）
 
 https://github.com/shelltdf/mindmap_mcp
 
-为了满足对脑图的沟通。
+为了满足对脑图的沟通。目前版本是支持 MCP server 的，可以做基本操作。但是因为用了 jsmind 所以很大限制，后续可能会替换这个库。
+
+### Flow 流程图 MCP
+
+这是一个基于容器，进程，逻辑的流程控制软件。
 
 ### UI 设计器 MCP（探索期）
 
