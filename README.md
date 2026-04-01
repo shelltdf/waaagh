@@ -21,6 +21,12 @@ https://github.com/shelltdf/ai_rules_template
 
 ## 第二层（基础工具）
 
+### 脑图 MCP（探索期）
+
+https://github.com/shelltdf/mindmap_mcp
+
+为了满足对脑图的沟通。
+
 ### UI 设计器 MCP（探索期）
 
 https://github.com/shelltdf/uisvg_mcp
@@ -28,12 +34,6 @@ https://github.com/shelltdf/uisvg_mcp
 因为控制台程序已经有对应的代码和文本编辑器了，但是对于 GUI 开发没有一个跟 AI 紧密结合的精确描述用户意图的工具。这个 MCP 的目的是为了让 AI 和用户通过 svg 文件和编辑器所见即所得的进行沟通。
 
 ## 第三层（具体应用）
-
-### 脑图 MCP（探索期）
-
-https://github.com/shelltdf/mindmap_mcp
-
-为了满足对脑图的沟通。
 
 ### 3D 模型 MCP（探索期）
 
