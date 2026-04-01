@@ -81,11 +81,11 @@ https://github.com/shelltdf/flash_mcp
 
 Flash 的精神续作。
 
-### 编曲 MCP
+### 编曲 MCP（探索受阻）
 
 为了满足对编曲的沟通。
 
-### 音频处理 MCP
+### 音频处理 MCP（探索受阻）
 
 为了满足对音频处理的沟通。
 
