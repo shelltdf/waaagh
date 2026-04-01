@@ -31,7 +31,7 @@ https://github.com/shelltdf/mindmap_mcp
 
 为了满足对脑图的沟通。目前版本是支持 MCP server 的，可以做基本操作。但是因为用了 jsmind 所以很大限制，后续可能会替换这个库。
 
-### Flow 流程图 MCP
+### Flow 流程图 MCP（探索期）
 
 https://github.com/shelltdf/flow_mcp
 
