@@ -33,6 +33,8 @@ https://github.com/shelltdf/mindmap_mcp
 
 ### Flow 流程图 MCP
 
+https://github.com/shelltdf/flow_mcp
+
 这是一个基于容器，进程，逻辑的流程控制软件。
 
 ### UI 设计器 MCP（探索期）
