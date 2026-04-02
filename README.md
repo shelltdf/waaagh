@@ -51,9 +51,9 @@ https://github.com/shelltdf/viewer3d_mcp
 
 为了满足对3D场景的沟通。
 
-### Texture Atlas（探索期）
+### Texture Atlas（测试版）
 
-针对贴图拼版的需求。
+针对贴图拼版的需求。这里就不做 3D 版本了，可以合并到 viewer3d_mcp 里实现。
 
 https://github.com/shelltdf/texture_atlas_mcp
 
