@@ -100,3 +100,15 @@ Flash 的精神续作。
 https://github.com/shelltdf/media_mcp
 
 为了满足对视频处理的沟通。
+
+# 独立软件
+
+## 大数据服务器（探索期）
+
+https://github.com/shelltdf/BigDataServer
+
+为了满足一些大数据需要服务器支持的问题。比如 GIS 服务。
+
+## 下载器
+
+现在都找不到一个干净的下载器了。支持多协议下载。
