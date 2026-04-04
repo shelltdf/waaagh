@@ -35,7 +35,7 @@ https://github.com/shelltdf/mindmap_mcp
 
 https://github.com/shelltdf/flow_mcp
 
-这是一个基于容器，进程，逻辑的流程控制软件。
+这是一个基于容器，进程，逻辑的流程控制软件。这是一个自动化处理流程图，不是程序逻辑流程图。类似于图形化批处理的定位。
 
 ### UI 设计器 MCP（探索期）
 
