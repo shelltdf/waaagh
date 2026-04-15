@@ -125,4 +125,4 @@ https://github.com/shelltdf/AnyDownloader
 
 https://github.com/shelltdf/up
 
-几十年如一日的被c++的包管理困扰，不如概念一下。
+几十年如一日的被c++的包管理困扰，不如改变一下吧。
