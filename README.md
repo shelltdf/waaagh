@@ -109,7 +109,7 @@ https://github.com/shelltdf/BigDataServer
 
 为了满足一些大数据需要服务器支持的问题。比如 GIS 服务。
 
-## GIS 数据编辑器
+## GIS 数据编辑器（探索期）
 
 https://github.com/shelltdf/AGIS
 
@@ -121,7 +121,7 @@ https://github.com/shelltdf/AnyDownloader
 
 现在都找不到一个干净的下载器了。支持多协议下载。
 
-## uni-package 更舒服的包管理器
+## uni-package 更舒服的包管理器（探索期）
 
 https://github.com/shelltdf/up
 
