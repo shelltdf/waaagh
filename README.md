@@ -120,3 +120,9 @@ https://github.com/shelltdf/AGIS
 https://github.com/shelltdf/AnyDownloader
 
 现在都找不到一个干净的下载器了。支持多协议下载。
+
+## uni-package 更舒服的包管理器
+
+https://github.com/shelltdf/up
+
+几十年如一日的被c++的包管理困扰，不如概念一下。
